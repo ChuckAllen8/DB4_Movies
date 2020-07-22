@@ -6,7 +6,8 @@ namespace DB4_Movies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MovieApp app = new MovieApp();
+            app.Run();
         }
     }
 }
