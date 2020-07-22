@@ -1,0 +1,13 @@
+C:\devbuild4\DB4_Movies\bin\Debug\netcoreapp3.1\DB4_Movies.exe
+C:\devbuild4\DB4_Movies\bin\Debug\netcoreapp3.1\DB4_Movies.deps.json
+C:\devbuild4\DB4_Movies\bin\Debug\netcoreapp3.1\DB4_Movies.runtimeconfig.json
+C:\devbuild4\DB4_Movies\bin\Debug\netcoreapp3.1\DB4_Movies.runtimeconfig.dev.json
+C:\devbuild4\DB4_Movies\bin\Debug\netcoreapp3.1\DB4_Movies.dll
+C:\devbuild4\DB4_Movies\bin\Debug\netcoreapp3.1\DB4_Movies.pdb
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.csprojAssemblyReference.cache
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.AssemblyInfoInputs.cache
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.AssemblyInfo.cs
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.csproj.CoreCompileInputs.cache
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.dll
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.pdb
+C:\devbuild4\DB4_Movies\obj\Debug\netcoreapp3.1\DB4_Movies.genruntimeconfig.cache
