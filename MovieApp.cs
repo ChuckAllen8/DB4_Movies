@@ -38,7 +38,7 @@ namespace DB4_Movies
             //initial displays.
             Console.WriteLine("Welcome to the Movie List Application!\n");
             Console.WriteLine($"There are {movies.Count} movies in this list.");
-            Console.WriteLine("There fall in the following categories:");
+            Console.WriteLine("They are in the following categories:");
 
             //display the menu.
             foreach(KeyValuePair<int, string> item in menu)
